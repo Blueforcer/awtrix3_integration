@@ -1,0 +1,12 @@
+{
+  "domain": "awtrix_integration",
+  "name": "AWTRIX Integration",
+  "codeowners": [
+    "@ludeeus"
+  ],
+  "config_flow": true,
+  "documentation": "https://github.com/ludeeus/awtrix_integration",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/ludeeus/awtrix_integration/issues",
+  "version": "0.0.0"
+}
